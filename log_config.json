@@ -1,0 +1,11 @@
+{
+    "isLog":{
+        "request_log":true,
+        "response_log": false,
+        "api_log": true,
+        "debug_log": true,
+	 "api_skip_log": ["/api/v2/m/riskrating","/api/v2/m/submit"]
+
+    }
+
+}
